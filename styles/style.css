@@ -154,6 +154,16 @@ nav {
         width:100%;
         margin: 1rem;
 
+        img{
+            width: 20px;
+            height: auto;
+            margin-right: 0.5rem;
+            vertical-align: middle;
+        }
+
+        
+
+
         .content-cajas{
             display: flex;
             flex-direction: column;
