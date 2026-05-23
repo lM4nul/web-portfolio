@@ -84,10 +84,12 @@ nav {
     
 
     img{
-        max-width: 100% ;
+        margin-top: 2rem;
+        max-width: 250px ;
         height: auto ;
         border-radius: 50%;
         margin-bottom: 2rem;
+        border: 0.19rem outset #8000FF;
     }
 
     h1{
@@ -215,7 +217,7 @@ nav {
             p{
                 margin: 0.5rem;
             }
-            
+
             img{
                 padding: 0.5rem;
                 width: 100%;
