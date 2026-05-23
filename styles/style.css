@@ -231,9 +231,17 @@ nav {
     h2{
         margin: 1rem;
     }
+
     p{
         margin: 0.5rem;
         align-self: center;
+    }
+
+    img{
+        width: 20px;
+        height: auto;
+        margin-right: 0.5rem;
+        vertical-align: middle;
     }
 
     @media (max-width: 768px) {
@@ -243,6 +251,7 @@ nav {
             font-size: 0.8rem;
         }
     }
+
 
     @media (max-width: 700px) {
             flex-direction: column;
